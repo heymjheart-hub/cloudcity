@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>MJ in Cloud City RP</title>
+<!-- =====================================================================
+     INDEX.HTML  ·  the page layout
+     All the words, photos, colors and links are in content.js.
+     You shouldn't need to edit this file.
+     ===================================================================== -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,400..800,100;1,9..144,400..800,100&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="moods" id="moods" aria-hidden="true"><div class="siren"></div></div>
+<canvas id="sprinkles" aria-hidden="true"></canvas>
+<div class="seam" aria-hidden="true"></div>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow" id="smallLabel"></div>
+    <h1 id="title"></h1>
+    <p class="lede" id="intro"></p>
+    <div class="row"><a class="pill solid live" id="twitchBtn" target="_blank" rel="noopener"><span class="dot"></span><span id="twitchBtnText"></span></a><span class="handle" id="twitchHandle"></span></div>
+  </header>
+
+  <section aria-label="Pick a character"><div class="picker" id="picker"></div></section>
+  <section aria-live="polite" aria-label="Character profile"><div class="profile" id="profile"></div></section>
+
+  <section aria-labelledby="favTitle">
+    <div class="sec-head"><h2 id="favTitle"></h2><p id="favText"></p></div>
+    <div class="fav" id="fav"></div>
+  </section>
+
+  <section aria-labelledby="quizTitle">
+    <div class="sec-head"><h2 id="quizTitle"></h2><p id="quizText"></p></div>
+    <div class="quiz" id="quiz" aria-live="polite"></div>
+    <div class="join" id="join"></div>
+  </section>
+
+  <section aria-labelledby="aboutTitle">
+    <div class="sec-head"><h2 id="aboutTitle"></h2></div>
+    <div class="creator" id="about"></div>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script src="content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
