@@ -18,7 +18,7 @@ window.SITE = {
   smallLabel:  "mjheart · Cloud City V2 RP",     // tiny line above the big title
   title:       "MJ in",                          // big title, first part
   titlePretty: "Cloud City",                     // big title, fancy italic part
-  intro:       "Hey y'all! These are the girls I play in Cloud City. Tap a picture to meet her, and heart the ones you love (you can love all three, I won't tell).",
+  intro:       "Haiiiiii y'all! These are the girls I play in Cloud City. Tap a picture to meet her, and heart the ones you love!!!!",
 
   twitch: {
     url:    "https://twitch.tv/mjheart",
@@ -51,7 +51,7 @@ window.SITE = {
 
       tagline: "Hi, sweetie. The usual? I already started it.",
       intro: "Allie Darling is my sweetheart (and my little menace). She's the warmest person in any room and she means every hug. She owns Wednesdays, a pink coffee shop where a drink sometimes goes out with a secret ingredient. She rides with the Loyal Bloodline MC as a prospect, and lately she's really into science. If you go down near her, check your arm.",
-      backstory: "Allie lost her mom and her brother, and her dream of being a doctor went with them. Somewhere in all that, she stopped being scared of pain and got curious about it instead. Bishop, the leader of the Loyal Bloodline, knows every part of her (the dark parts too).",
+      backstory: "Allie lost her mom and her brother, and her dream of being a lawyer went with them. Somewhere in all that, she stopped being scared of pain and got curious about it instead. Currently dating Bishop, the leader of the Loyal Bloodline.",
 
       facts: [
         ["Age",        "34"],
@@ -83,7 +83,7 @@ window.SITE = {
 
       tagline: "Right, so, first of all? Welcome.",
       intro: "Margo Blake is my realtor girl. She sells houses, gives tours, and somehow knows everybody in Cloud City. Just got to town? Find Margo. She'll get you a place, show you around, and introduce you to the right people.",
-      backstory: "Margo's from Essex, England, and trust me, she will let you know. She came to Cloud City with big hair, bigger opinions and a real gift for getting people settled.",
+      backstory: "Margo's from Essex, England. She came to Cloud City with big hair, bigger opinions and a gift for getting people settled.",
 
       facts: [
         ["From",     "Essex, England"],
@@ -114,7 +114,7 @@ window.SITE = {
       sparkles: "embers", policeLights: true,
 
       tagline: "Ma'am, I'm going to need you to lower your voice. Thank you.",
-      intro: "Scarlet Rae Delacroix is the newest officer at the PD, and y'all, she is put together. Pressed uniform, perfect nails, and a voice that never has to go up. She's polite, she's sharp, and she will quote the rulebook back to you with a smile.",
+      intro: "Scarlet Rae Delacroix is the newest officer at the PD, and y'all, she seems put together. She's polite but she's a lil slick.",
       backstory: "If you watched my Red Dead stories, that last name should ring a bell. Scarlet is Hazel Mae Delacroix's great-great-great-granddaughter. Hazel never married but she had a son, and the name came all the way down to Scarlet's mama, Rose, who raised her to stand her ground.",
 
       facts: [
@@ -126,8 +126,8 @@ window.SITE = {
       file: {
         title: "Personnel file · Delacroix, Scarlet Rae",
         rows: [
-          ["Strengths",     "Procedure, report writing, remembering every word you said"],
-          ["Training note", "“Knows the book cold. Needs to learn when the book isn't enough.”"]
+          ["Strengths",     "storytelling & making people feel calm"],
+          ["Training note", "“Needs to learn police work from scratch...training will be... interesting.”"]
         ]
       }
     }
