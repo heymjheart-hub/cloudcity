@@ -50,7 +50,11 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="content.js"></script>
-<script src="app.js"></script>
+<!-- Loads the newest content.js every time, so your edits show up right away -->
+<script>
+  var v = Date.now();
+  document.write('<script src="content.js?v=' + v + '"><\/script>');
+  document.write('<script src="app.js?v=' + v + '"><\/script>');
+</script>
 </body>
 </html>
