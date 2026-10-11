@@ -49,7 +49,7 @@ window.SITE = {
       color: "#ffa6d1", color2: "#ff6fb5", background: "#1e1119",
       sparkles: "sprinkles", policeLights: false,
 
-      tagline: "Hi, sweetie. The usual? I already started it.",
+      tagline: "Hiii!! do you like science??",
       intro: "Allie Darling is my sweetheart (and my little menace). She's the warmest person in any room and she means every hug. She owns Wednesdays, a pink coffee shop where a drink sometimes goes out with a secret ingredient. She rides with the Loyal Bloodline MC as a prospect, and lately she's really into science. If you go down near her, check your arm.",
       backstory: "Allie lost her mom and her brother, and her dream of being a lawyer went with them. Somewhere in all that, she stopped being scared of pain and got curious about it instead. Currently dating Bishop, the leader of the Loyal Bloodline.",
 
@@ -57,7 +57,7 @@ window.SITE = {
         ["Age",        "34"],
         ["Owns",       "Wednesdays"],
         ["Club",       "Loyal Bloodline MC · prospect"],
-        ["Works with", "LA Bridges (coworker, not friend)"]
+        ["Works with", "LA Bridges"]
       ],
 
       photosTitle: "Around the city",
